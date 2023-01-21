@@ -1,12 +1,37 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .background-image {
-    background-image: url('./images/2dogsonthebeach.jpg.jpeg');
+    background-image: url('./images/dogatbeach.jpg.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
   }
+
+#header {
+    color: rgb(99, 82, 82);
+    opacity: 0.6;
+  }
+
+ul {
+    text-align: right;
+    list-style: none;
+    padding: 2%;
+  }
+
+ul li {
+    list-style: none;
+    display: inline-flex;
+    line-height: 100%;
+}
+
+ul li a {
+    color: rgb(99, 82, 82);
+    font-size: 25px;
+    padding: 5% 20px;
+}
