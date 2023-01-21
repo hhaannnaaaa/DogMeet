@@ -26,7 +26,7 @@ ul {
 
 ul li {
     list-style: none;
-    display: inline-flex;
+    display: inline-block;
     line-height: 100%;
 }
 
@@ -34,4 +34,19 @@ ul li a {
     color: rgb(99, 82, 82);
     font-size: 25px;
     padding: 5% 20px;
+}
+
+ul li a:hover {
+    color: rgb(46, 32, 32);
+}
+
+#center-text {
+    text-align: center;
+    color: rgb(99, 82, 82);
+    padding-top: 10%;
+    margin-bottom: 1%;
+}
+
+p {
+  text-align: center;
 }
