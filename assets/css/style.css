@@ -40,13 +40,22 @@ ul li a:hover {
     color: rgb(46, 32, 32);
 }
 
-#center-text {
+#center-heading {
     text-align: center;
     color: rgb(99, 82, 82);
-    padding-top: 10%;
+    padding-top: 4%;
     margin-bottom: 1%;
 }
 
 p {
   text-align: center;
 }
+
+img {
+  width: 200px;
+  display: inline-block;
+  margin: 1%;
+  padding-left: 12%;
+  padding-top: 15px;
+}
+
