@@ -81,6 +81,7 @@ section div {
   background-size: cover;
   height: 60vh;
   opacity: 0.8;
+  text-align: center;
 }
 
 #meetup-whathba {
@@ -119,3 +120,9 @@ section div {
   opacity: 0.8;
 }
 
+.contact {
+  color: rgb(99, 82, 82);
+  text-align: center;
+  padding-top: 80px;
+  text-decoration: underline;
+}
