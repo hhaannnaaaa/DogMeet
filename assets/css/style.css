@@ -37,7 +37,8 @@ ul li a {
 }
 
 ul li a:hover {
-    color: rgb(46, 32, 32);
+    background-color: beige;
+    opacity: 0.6;
 }
 
 #center-heading {
@@ -55,9 +56,13 @@ img {
   width: 200px;
   display: inline-block;
   margin: 1%;
-  padding-left: 12%;
-  padding-top: 15px;
+  padding: 10px;
   opacity: 0.7;
+}
+
+div .homepage-images {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .social-links {
@@ -69,9 +74,17 @@ img {
 section div {
   display: inline-block;
   text-align: center;
-  padding-top: 80px;
-  padding-left: 80px;
+  padding: 50px;
   text-decoration: underline;
+}
+
+section.meetups {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+section div h1 {
+  padding-top: 20px;
 }
 
 #meetup-yas {
@@ -120,9 +133,13 @@ section div {
   opacity: 0.8;
 }
 
-.contact {
-  color: rgb(99, 82, 82);
-  text-align: center;
-  padding-top: 80px;
-  text-decoration: underline;
+div p {
+  margin-top: 40px;
 }
+
+button {
+  margin-top: 350px;
+}
+
+
+
