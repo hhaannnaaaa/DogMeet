@@ -94,7 +94,6 @@ section div h1 {
   background-size: cover;
   height: 60vh;
   opacity: 0.8;
-  text-align: center;
 }
 
 #meetup-whathba {
@@ -141,5 +140,64 @@ button {
   margin-top: 350px;
 }
 
+header h1 {
+  color: rgb(99, 82, 82);
+  text-align: center;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100px;
+    margin-top: 20px;
+  }
+
+  #meetup-yas {
+    background-image: url('./images/palm.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 60vh;
+    opacity: 0.8;
+    text-align: center;
+  }
+  
+  #meetup-whathba {
+    background-image: url('./images/desert.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 60vh;
+    opacity: 0.8;
+  }
+  
+  #meetup-flopster {
+    background-image: url('./images/beach.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 60vh;
+    opacity: 0.8;
+  }
+  
+  #meetup-kubaira {
+    background-image: url('./images/agility.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 60vh;
+    opacity: 0.8;
+  }
+  
+  #meetup-salt {
+    background-image: url('./images/hamburger.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 60vh;
+    opacity: 0.8;
+  }
+
+}
 
 
