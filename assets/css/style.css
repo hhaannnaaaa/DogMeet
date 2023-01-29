@@ -177,6 +177,22 @@ header h1 {
     background-size: cover;
     height: 40vh;
   }
+
+  section div h1 {
+    background-color: antiquewhite;
+    opacity: 0.5;
+  }
+
+  div h3 {
+    background-color: antiquewhite;
+    opacity: 0.5;
+  }
+
+  div p {
+    background-color: antiquewhite;
+    opacity: 0.5;
+  }
+
   section.meetups {
     flex-direction: column-reverse;
   }
