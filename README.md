@@ -19,7 +19,7 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
 
   Dog Meet´s has three different parts. The first is the homepage which contains a navigation bar at the top of the page, in the center a heading and three pictures of dogs. At the botton of the page is the social media links to the facebook and instagram.
 
-  The Meetups page shows the five different places to meet, this meetups is consistent every week. A text button with "Text us!" takes the user to our instagram site where they send us a DM.
+  The Meetups page shows the five different places to meet, this meetups is consistent every week.
 
   ## Existing Features
 
