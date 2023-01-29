@@ -8,8 +8,13 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
   src="assets/css/images/screenshot-homepage.jpg.png"
   alt="Screenshot of the homepage site"
   title="Screenshot-homepage"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
 
+<img
+  src="assets/css/images/screenshot-smartphonesize.jpg.png"
+  alt="Screenshot of the homepage site"
+  title="Screenshot-homepage"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   ## Features 
 
   Dog Meet´s has three different parts. The first is the homepage which contains a navigation bar at the top of the page, in the center a heading and three pictures of dogs. At the botton of the page is the social media links to the facebook and instagram.
@@ -28,7 +33,7 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
   title="Screenshot-navigationbar"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
-<li> The homepage heading
+### <li> The homepage heading
 
 * The header section in the home page includes a short description of the purpose of this website and three different pictures of dogs below it.
 
@@ -52,7 +57,7 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
 
 * Gives the user exact places, times for each meetup.
 
-* These meetups will happen at the same place and times every week, so no updates is required.
+* These meetups will happen at the same place and times every week, so no updates are required.
 
 <img
   src="assets/css/images/screenshot-meetups.jpg.png"
@@ -65,6 +70,12 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
   * Tested positive that this site works on different browsers such as: Firefox, Safari, Chrome.
   * The site works responsive on all standard screen sizes.
   * All of the text such as the header, navigationbar, social links and the meetups section is clearly and readable.
+
+<img
+  src="assets/css/images/screenshot-accesibility.jpg.png"
+  alt="Screenshot of the header on homepage"
+  title="Screenshot-header"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 # Validator Testing
 <li> HTML
@@ -80,7 +91,8 @@ No unfixed bugs.
 
 # Deployment
 
-<li> --------------
+<li> Navigate to the repositery in GitHub, click on Settings and on the right menu at the bottom push the Pages button.
+<li> Deploy from the Main branch and press save.
 
 # Credits
 I have been using [W3School](https://www.w3schools.com/) to get some extra help on the syntax. The Code Institute has given me the information I need to create the meetups section.
