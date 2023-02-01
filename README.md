@@ -60,6 +60,18 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
   title="Screenshot-meetups"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
+## Contact site
+
+* Give the user contact information
+
+* Let the user send a direct message
+
+<img
+  src="assets/css/images/screenshotcontact.jpg.png"
+  alt="Screenshot of the contact site"
+  title="Screenshot-contact"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
   # Testing
 
   * Tested positive that this site works on different browsers such as: Firefox, Safari, Chrome.

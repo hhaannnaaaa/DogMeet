@@ -201,3 +201,8 @@ header h1 {
 div form {
   text-align: center;
 }
+
+#text {
+  background-color: white;
+  opacity: 0.8;
+}
