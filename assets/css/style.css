@@ -198,4 +198,6 @@ header h1 {
   }
 }
 
-
+div form {
+  text-align: center;
+}
