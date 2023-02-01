@@ -5,16 +5,11 @@ This site is created to get together dogowners with their dogs in Abu Dhabi.
 Dog Meet gives dog owners the opportunity to select meetings that repeats every week. 
 
 <img
-  src="assets/css/images/screenshot-homepage.jpg.png"
+  src="assets/css/images/screensize.jpg.png"
   alt="Screenshot of the homepage site"
   title="Screenshot-homepage"
   style="display: inline-block; margin: 0 auto; max-width: 400px">
 
-<img
-  src="assets/css/images/screenshot-smartphonesize.jpg.png"
-  alt="Screenshot of the homepage site"
-  title="Screenshot-homepage"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
   ## Features 
 
   Dog Meet´s has three different parts. The first is the homepage which contains a navigation bar at the top of the page, in the center a heading and three pictures of dogs. At the botton of the page is the social media links to the facebook and instagram.
@@ -80,18 +75,18 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
 # Validator Testing
 <li> HTML
 
-* No errors when tested in the [W3C validator](https://validator.w3.org/nu/#textarea)
+* Succeed the tests with [W3C validator](https://validator.w3.org/nu/#textarea)
 
 <li> CSS
 
-* No errors when tested in the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+* Succeed the tests with [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
   
 ## Unfixed Bugs
 No unfixed bugs.
 
 # Deployment
 
-<li> Navigate to the repositery in GitHub, click on Settings and on the right menu at the bottom push the Pages button.
+<li> Navigate to the repositery in GitHub, click on Settings and on the left menu at the bottom push the Pages button.
 <li> Deploy from the Main branch and press save.
 
 # Credits
