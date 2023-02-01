@@ -44,8 +44,8 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
 
 <img
   src="assets/css/images/screenshot-sociallinks.jpg.png"
-  alt="Screenshot of the header on homepage"
-  title="Screenshot-SocialLinks"
+  alt="Screenshot of the social links"
+  title="Screenshot-socialLinks"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 ## The meetups site
@@ -74,14 +74,14 @@ Dog Meet gives dog owners the opportunity to select meetings that repeats every 
 
   # Testing
 
-  * Tested positive that this site works on different browsers such as: Firefox, Safari, Chrome.
-  * The site works responsive on all standard screen sizes.
-  * All of the text such as the header, navigationbar, social links and the meetups section is clearly and readable.
+  * The website works on all the regular websites such as: Firefox, Google Chrome and Microsoft Edge.
+  * The site is responsive on all standard screen sizes.
+  * The text is throughout clearly readable.
 
 <img
   src="assets/css/images/screenshot-accesibility.jpg.png"
-  alt="Screenshot of the header on homepage"
-  title="Screenshot-header"
+  alt="Screenshot of the accesibility information"
+  title="Screenshot-accesibility"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 # Validator Testing
